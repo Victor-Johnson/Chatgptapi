@@ -1,1 +1,2 @@
-APIKEY = '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'
+# insert your API KEY
+APIKEY = '##########################################'
